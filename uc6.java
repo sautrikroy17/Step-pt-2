@@ -13,6 +13,6 @@ public class uc6 {
 
         result = result.substring(0, result.length() - 2);
 
-        System.out.println("Hello, " + result + "!");
+        System.out.println("Hello , " + result + "!");
     }
 }
